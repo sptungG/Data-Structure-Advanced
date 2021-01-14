@@ -22,7 +22,7 @@ long long addMod(long long a, long long b){
     return b-tmp;
 }
  
-int main(int argc, const char * argv[]) {
+int main() {
     cin >> n;
     for (int i=1; i<=n; i++) {
         cin >> a[i];

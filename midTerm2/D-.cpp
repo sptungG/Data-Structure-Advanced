@@ -35,7 +35,7 @@ void tryy(int i){
     }
 }
  
-int main(int argc, const char * argv[]) {
+int main() {
     cin >> n >> b;
     for (int i=1; i<=n; i++) {
         cin >> a[i];

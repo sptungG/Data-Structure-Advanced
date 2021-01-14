@@ -5,7 +5,7 @@ using namespace std;
  
 int n, a[1007];
  
-int main(int argc, const char * argv[]) {
+int main() {
     cin >> n;
     for (int i=1; i<=n; i++) {
         cin >> a[i];

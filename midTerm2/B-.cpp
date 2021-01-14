@@ -5,7 +5,7 @@ using namespace std;
  
 int n, a[100007], f[100007][3],f2[100007][3];
  
-int main(int argc, const char * argv[]) {
+int main() {
     cin >> n;
     for (int i=1; i<=n; i++) {
         f[i][0] = -999999999;
