@@ -1,2 +1,2 @@
 # Data-Adv-ict
-**Apllied Algorithm 20201**
+*Applied Algorithm 20201*
